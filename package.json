@@ -1,0 +1,32 @@
+{
+  "name": "it-project-19-20-x",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "firebase": "^7.14.3",
+    "mongoose": "^5.9.13",
+    "node-fetch": "^2.6.0",
+    "nodemailer": "^6.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AP-Elektronica-ICT/it-project-19-20-x.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AP-Elektronica-ICT/it-project-19-20-x/issues"
+  },
+  "homepage": "https://github.com/AP-Elektronica-ICT/it-project-19-20-x/index.ejs",
+  "description": ""
+}
